@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# React
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/dist/
+
+# Spring
+backend/target/
+backend/.env
+backend/.mvn/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/mvnw
+backend/mvnw.cmd
